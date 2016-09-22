@@ -11,11 +11,11 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  background-image: url('images/mary.jpg');
+  background: url(images/mary.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  background-repeat: no-repeat;
-  margin: 0;
-  padding: 0;
 
   font-family: Raleway, sans-serif;
 }
