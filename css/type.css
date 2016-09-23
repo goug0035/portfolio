@@ -45,9 +45,10 @@ dfn, caption {
 }
 
 hr {
+  text-align: center;
+  width: 70%;
   border: 0;
-  border-top: 1px solid;
-  height: 0;
+  border-top: 3px solid;
 }
 
 table {
@@ -99,18 +100,18 @@ thead th {
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
-blockquote, details, hr,
+blockquote, details,
 fieldset, pre, table {
   margin: 0 0 1.3rem;
 }
 
 .yotta {
-  font-size: 1.5745rem;
+  font-size: 3rem;
   line-height: 2.2750rem;
 }
 
 .zetta {
-  font-size: 1.4757rem;
+  font-size: 1.5rem;
   line-height: 1.9500rem;
 }
 
@@ -272,7 +273,7 @@ html {
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
-blockquote, details, hr,
+blockquote, details,
 fieldset, pre, table {
   margin: 0 0 1.4rem;
 }
@@ -450,7 +451,7 @@ html {
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
-blockquote, details, hr,
+blockquote, details,
 fieldset, pre, table {
   margin: 0 0 1.5rem;
 }
@@ -628,7 +629,7 @@ html {
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
-blockquote, details, hr,
+blockquote, details,
 fieldset, pre, table {
   margin: 0 0 1.5rem;
 }
